@@ -1,2 +1,10 @@
-﻿  main.c
-  StuGradeSystem.vcxproj -> F:\项目\visualstudio\新建文件夹\StuGradeSystem\x64\Debug\StuGradeSystem.exe
+﻿  data.c
+  delete.c
+  input.c
+  main.c
+  modify.c
+  query.c
+  sort.c
+  utils.c
+  正在生成代码...
+  StuGradeSystem.vcxproj -> F:\项目\visualstudio\StuGradeSystem\x64\Debug\StuGradeSystem.exe

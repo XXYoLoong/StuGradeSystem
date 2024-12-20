@@ -1,0 +1,13 @@
+Class: 
+Student: 123456789 倪家诚 M 272.00
+  Course: 高数 8.00
+  Course: 线代 30.00
+  Course: 数据 90.00
+  Course: 物理 67.00
+  Course: 离散 77.00
+Student: 132 q m 268.00
+  Course: 高数 50.00
+  Course: 线代 30.00
+  Course: 数据 90.00
+  Course: 物理 78.00
+  Course: 离散 20.00

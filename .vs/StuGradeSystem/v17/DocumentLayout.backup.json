@@ -1,9 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\\u9879\u76EE\\visualstudio\\\u65B0\u5EFA\u6587\u4EF6\u5939\\StuGradeSystem\\",
+  "WorkspaceRootPath": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|F:\\\u9879\u76EE\\visualstudio\\\u65B0\u5EFA\u6587\u4EF6\u5939\\StuGradeSystem\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|solutionrelative:data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\delete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|solutionrelative:delete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|solutionrelative:input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\modify.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|solutionrelative:modify.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\query.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|solutionrelative:query.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|solutionrelative:sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|solutionrelative:utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\utils.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|solutionrelative:utils.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|solutionrelative:sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\query.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|solutionrelative:query.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\modify.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|solutionrelative:modify.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\input.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|solutionrelative:input.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\data.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|solutionrelative:data.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\delete.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|solutionrelative:delete.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FC9F9B26-E29E-46BC-A10F-CB265BB994EB}|StuGradeSystem.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,17 +70,199 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sort.h",
+              "DocumentMoniker": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\sort.h",
+              "RelativeDocumentMoniker": "sort.h",
+              "ToolTip": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\sort.h*",
+              "RelativeToolTip": "sort.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T17:36:13.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "delete.h",
+              "DocumentMoniker": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\delete.h",
+              "RelativeDocumentMoniker": "delete.h",
+              "ToolTip": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\delete.h*",
+              "RelativeToolTip": "delete.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T17:35:54.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "modify.h",
+              "DocumentMoniker": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\modify.h",
+              "RelativeDocumentMoniker": "modify.h",
+              "ToolTip": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\modify.h*",
+              "RelativeToolTip": "modify.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T17:35:30.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "query.h",
+              "DocumentMoniker": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\query.h",
+              "RelativeDocumentMoniker": "query.h",
+              "ToolTip": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\query.h*",
+              "RelativeToolTip": "query.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T17:34:49.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input.h",
+              "DocumentMoniker": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\input.h",
+              "RelativeDocumentMoniker": "input.h",
+              "ToolTip": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\input.h*",
+              "RelativeToolTip": "input.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T17:34:26.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "data.c",
+              "DocumentMoniker": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\data.c",
+              "RelativeDocumentMoniker": "data.c",
+              "ToolTip": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\data.c*",
+              "RelativeToolTip": "data.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-19T17:33:40.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "utils.h",
+              "DocumentMoniker": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\utils.h",
+              "RelativeDocumentMoniker": "utils.h",
+              "ToolTip": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\utils.h*",
+              "RelativeToolTip": "utils.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T17:24:39.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sort.c",
+              "DocumentMoniker": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\sort.c",
+              "RelativeDocumentMoniker": "sort.c",
+              "ToolTip": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\sort.c*",
+              "RelativeToolTip": "sort.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-19T17:21:13.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "delete.c",
+              "DocumentMoniker": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\delete.c",
+              "RelativeDocumentMoniker": "delete.c",
+              "ToolTip": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\delete.c*",
+              "RelativeToolTip": "delete.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-19T17:19:56.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "modify.c",
+              "DocumentMoniker": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\modify.c",
+              "RelativeDocumentMoniker": "modify.c",
+              "ToolTip": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\modify.c*",
+              "RelativeToolTip": "modify.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-19T17:19:38.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "query.c",
+              "DocumentMoniker": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\query.c",
+              "RelativeDocumentMoniker": "query.c",
+              "ToolTip": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\query.c*",
+              "RelativeToolTip": "query.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-19T17:19:23.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "input.c",
+              "DocumentMoniker": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\input.c",
+              "RelativeDocumentMoniker": "input.c",
+              "ToolTip": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\input.c*",
+              "RelativeToolTip": "input.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-19T17:18:23.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "utils.c",
+              "DocumentMoniker": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\utils.c",
+              "RelativeDocumentMoniker": "utils.c",
+              "ToolTip": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\utils.c*",
+              "RelativeToolTip": "utils.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-19T17:18:08.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "data.h",
+              "DocumentMoniker": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\data.h",
+              "RelativeDocumentMoniker": "data.h",
+              "ToolTip": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\data.h",
+              "RelativeToolTip": "data.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T17:17:28.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "main.c",
-              "DocumentMoniker": "F:\\\u9879\u76EE\\visualstudio\\\u65B0\u5EFA\u6587\u4EF6\u5939\\StuGradeSystem\\main.c",
+              "DocumentMoniker": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\main.c",
               "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "F:\\\u9879\u76EE\\visualstudio\\\u65B0\u5EFA\u6587\u4EF6\u5939\\StuGradeSystem\\main.c",
-              "RelativeToolTip": "main.c",
-              "ViewState": "AgIAANIAAAAAAAAAAAAgwN0AAAAQAAAAAAAAAA==",
+              "ToolTip": "F:\\\u9879\u76EE\\visualstudio\\StuGradeSystem\\main.c*",
+              "RelativeToolTip": "main.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-12-19T12:39:49.904Z",
               "EditorCaption": ""

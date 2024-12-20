@@ -18,5 +18,49 @@
     <ClCompile Include="main.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="utils.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="input.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="query.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="modify.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="delete.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sort.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="data.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="data.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="input.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="query.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="modify.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="delete.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
